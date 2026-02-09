@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Tsegay Assefa</h1>
 <h3 align="center">3rd-year Information Science Undergraduate @ Addis Ababa University</h3>
 
-💻 Exploring **AI/Machine Learning**, **Data Engineering **, and **Full-Stack Web Development**  
+💻 Exploring **AI/Machine Learning**, Data Engineering , and **Full-Stack Web Development**  
 🚀 Passionate about building **end-to-end AI solutions**, **data → models → APIs → deployment → real users** 
 
 ---  
