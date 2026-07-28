@@ -1,19 +1,29 @@
 <h1 align="center">Hi there 👋, I'm Tsegay Assefa</h1>
-<h3 align="center">3rd-year Information Science Undergraduate @ Addis Ababa University</h3>
+<h3 align="center">AI Software Engineer passionate about building production-ready intelligent systems that combine Artificial Intelligence, backend engineering, and modern web technologies.</h3>
 
-💻 Exploring **AI/Machine Learning**, Data Engineering , and **Full-Stack Web Development**  
-🚀 Passionate about building **end-to-end AI solutions**, **data → models → APIs → deployment → real users** 
+Currently pursuing a BSc in Information Systems at Addis Ababa University while developing AI-powered applications spanning Computer Vision, LLMs, intelligent APIs, and data-driven platforms.
 
----  
-# Currently focused on:
-- Machine Learning & LLM Applications
-- Data Pipelines & Analytics Engineering
-- FastAPI/Backend Systems
-- Production-ready AI projects
+My interests include:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Large Language Model Applications
+- 👁️ Computer Vision
+- ⚡ Backend Architecture & Distributed Systems
+- 🌐 Full-Stack AI Applications
+- 📊 Data Engineering & Analytics
+
+I enjoy turning research ideas into scalable software that people can actually use.
 
 ---
 
 ## 🚀 Featured Projects
+🌱 AgroNexus AI
+
+An end-to-end AI platform connecting Ethiopian farmers, agro-industries, and markets through intelligent decision support, computer vision, and backend services.
+
+Tech: Python, FastAPI, Next.js, PostgreSQL, YOLOv8, LangChain, PyTorch, Docker, TypeScript
+
+🔗 https://github.com/TsegayIS122123/agronexus-ai
 
 ### 🏥 Medical Telegram Warehouse
 End-to-end healthcare data pipeline (ETL → DB → ML → API → Dashboard)  
